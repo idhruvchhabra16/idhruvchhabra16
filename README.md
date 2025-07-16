@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idhruvchhabra16&label=Profile%20views&color=0e75b6&style=flat" alt="idhruvchhabra16" /> </p>
 
-- 🌱 I’m currently learning **Java Backend Development**
+- 🌱 I’m currently learning **Java Development**
 
 - 👯 I’m looking to collaborate on **FullStack Development Projects**
 
